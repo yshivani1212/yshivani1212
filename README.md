@@ -1,7 +1,6 @@
 <h1 align="center">Hi there :wave:, Welcome to My Profile</h1>
 <h3 align="center">I'm Passionate About Analytics</h3>
-<img align="right" alt="Analysis" width="400" src="ctivity-rogress-rend62fe2eb248ab8_lg
-">
+<img align="right" alt="Analysis" width="400" src="![ctivity-rogress-rend62fe2eb248ab8_lg](https://github.com/yshivani1212/yshivani1212/assets/145531829/e3a198ea-c594-4f75-96c8-e9180474101c)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmanjesh30verma&label=Profile%20views&color=0e75b6&style=flat" alt="mmanjesh30verma" /> </p>
 ### Hello :wave:
 I am **Shivani Yadav**, I am a Learner, and Tech Data Enthusiast. to code in Python and currently working on few projects!
