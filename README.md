@@ -2,9 +2,12 @@
 <h3 align="center">I'm Passionate About Analytics</h3>
 <img align="right" text-align="center" alt="Analysis" width="400" src="https://smartpmtraining.com/wp-content/uploads/2023/04/ctivity-rogress-rend62fe2eb248ab8_lg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmanjesh30verma&label=Profile%20views&color=0e75b6&style=flat" alt="mmanjesh30verma" /> </p>
+
+
 ### Hello :wave:
 I am **Shivani Yadav**, I am a Learner, and Tech Data Enthusiast. to code in Python and currently working on few projects!
 I love Analysis, data learning and computer vision . I learn new things and explore my interests everyday.
+
 I am known about:
 - Data Learning and Visualizations
 - Python Development
@@ -13,8 +16,10 @@ I am known about:
 - Data Analytics
 - SQL, Jira scrum
 - and much more....
+
 **Want to hire me for your next project. Lets connect.**
 You can email me as well here **yadavshivani395@gmail.com**.
+
 ### Connect with me on LinkedIn
 www.linkedin.com/in/
 shivani-yadav-618a41203
@@ -22,6 +27,7 @@ shivani-yadav-618a41203
 **Let me tell you somethings about myself.**
  - :technologist::skin-tone-4::telescope:: As an analyst, I help the companies unlock valuable insights and solve complex business challenges, using data analysis, key performance indicators, and customer success skills. I have completed internship certifications and I worked on few research projects (published by GitHub) to enhance my expertise and efficiency..
  - :mortar_board: I have completed Bsc from career College of Science, affiliated to Barkatullah University Bhopal. My education and experience enable me to achieve a mission of understanding people and inspiring growth.
+  
  - :zap: My curiosity made me a **self-learner** who loves learning things from the internet, any reliable and quality source of information.
  - :v:  I am passionate about analytics, innovation, and I value learning and excellence. Apart from this I am a tea lover & like exploring new places...
 <h3 align="left">Languages and Tools:</h3>
