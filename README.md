@@ -24,9 +24,13 @@ I am known about:
 **Want to hire me for your next project. Lets connect.**
 You can email me as well here **yadavshivani395@gmail.com**.
 
-### Connect with me on LinkedIn
+### 📫 Contact Me
+
+Feel free to reach out to me via on LinkedIn
 www.linkedin.com/in/
 shivani-yadav-618a41203
+
+
 
 **Let me tell you somethings about myself.**
  - :technologist::skin-tone-4::telescope:: As an analyst, I help the companies unlock valuable insights and solve complex business challenges, using data analysis, key performance indicators, and customer success skills. I have completed internship certifications and I worked on few research projects (published by GitHub) to enhance my expertise and efficiency..
