@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi there :wave:, Welcome to My Profile</h1>
 <h3 align="center">I'm Passionate About Analytics</h3>
-<img align="center" text-align="center" alt="Analysis" width="400" src="https://smartpmtraining.com/wp-content/uploads/2023/04/ctivity-rogress-rend62fe2eb248ab8_lg.gif">
 <p align="center">
   <img alt="Analysis" width="400" src="https://smartpmtraining.com/wp-content/uploads/2023/04/ctivity-rogress-rend62fe2eb248ab8_lg.gif">
 </p>
