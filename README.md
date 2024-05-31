@@ -28,11 +28,11 @@ You can email me as well here **yadavshivani395@gmail.com**.
 
 Feel free to reach out to me via on LinkedIn
 www.linkedin.com/in/
-shivani-yadav-618a41203 or connect with me on  [email](mailto:youremail@example.com)
+shivani-yadav-618a41203 or connect with me on  [email](yadavshivani395@gmail.com)
 
 
 
-**Let me tell you somethings about myself.**
+### Let me tell you somethings about myself. ###
  - :technologist::skin-tone-4::telescope:: As an analyst, I help the companies unlock valuable insights and solve complex business challenges, using data analysis, key performance indicators, and customer success skills. I have completed internship certifications and I worked on few research projects (published by GitHub) to enhance my expertise and efficiency..
  - :mortar_board: I have completed Bsc from career College of Science, affiliated to Barkatullah University Bhopal. My education and experience enable me to achieve a mission of understanding people and inspiring growth.
   
